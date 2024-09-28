@@ -1,0 +1,9 @@
+Understand about forms and input tags ?
+Understand about html entities ?
+Understand about video and audio tag ?
+Understand about ID and Class ?
+Understand about Semantic tags ?
+
+Links -
+HTML Entities by MDN = https://developer.mozilla.org/en-US/docs/Glossary/Character_reference
+HTML Entities by Toptal = https://www.toptal.com/designers/htmlarrows/symbols/
