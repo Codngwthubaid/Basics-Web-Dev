@@ -1,0 +1,21 @@
+.random {
+    border: 2px solid aqua;
+    padding: 40px;
+    margin: 40px;
+    /* padding: 40px 25px 40px 25px; */
+    /* padding: 40px 25px; */
+
+    /* padding: (top-bottom) (right-left); */
+    /* padding: top right bottom left*/
+    
+    /* padding-top: 40px;
+    padding-bottom: 80px;
+    padding-right: 25px;
+    padding-left: 10px; */
+}
+
+#styles {
+    border: 2px solid green;
+    margin: 40px;
+    padding: 40px;
+}

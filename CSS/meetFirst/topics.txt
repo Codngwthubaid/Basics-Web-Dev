@@ -1,0 +1,9 @@
+Understand CSS? // sCascading Style Sheets
+Understand how we insert CSS?
+Understand Selectors?
+Understand margin and padding?
+
+inline format , internat format, external format
+element/tagBase selector - ex: <div>
+class selector - ex: HTML - class="random" CSS - .random
+id selector - ex: HTML - id="styles" CSS - #styles
