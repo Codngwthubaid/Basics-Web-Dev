@@ -1,4 +1,4 @@
-Understand CSS? // sCascading Style Sheets
+Understand CSS? // Cascading Style Sheets
 Understand how we insert CSS?
 Understand Selectors?
 Understand margin and padding?

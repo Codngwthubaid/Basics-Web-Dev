@@ -1,0 +1,13 @@
+Understand about the different types of units?
+Understand about display properties? 
+
+vw,%,px - width
+vh,%,px - height 
+
+div- block 
+span- inline
+
+ul = unorder list
+ol = order list
+dl = defination list
+nested list - 
