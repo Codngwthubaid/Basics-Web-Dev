@@ -1,0 +1,17 @@
+Understand about flex property?
+Understand about the properties of lists?
+Understand about the position properties?
+Create a basic navbar?
+
+
+Flex => vertical == horizaontal 
+ol = Order list
+ul = Unorder list
+dl = defination list
+Nested list 
+
+Positions = fixed , absolute , relative , static , sticky
+Positions (default) = static
+
+align-items = vertically align
+justify-content = horizaontally align

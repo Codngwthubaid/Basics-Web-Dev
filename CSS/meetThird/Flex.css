@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    flex-direction: column-reverse;
+    /* height: 50vh; */
+}
+
+.box{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(202, 245, 245);
+    border: 2px solid;
+}
