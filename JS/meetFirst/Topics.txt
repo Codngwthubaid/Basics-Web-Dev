@@ -1,0 +1,21 @@
+Understand about the internal and external format of JS file?
+Understand about the different natures of JS?
+Understand about the variables?
+Understand about the datatypes?
+Understand about Object?
+Understand about how to preform conditional operations?
+Understand about Loops?
+
+
+Node JS - https://nodejs.org/en/download/package-manager
+Not accessible in backend - alert, prompt, confirm, etc
+
+Datatypes - 
+String
+Number
+Boolean
+Object
+
+Loops -
+for
+while
