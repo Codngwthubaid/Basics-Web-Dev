@@ -1,0 +1,3 @@
+Understand about functions?
+Understand about DOM?
+Understand about Listeners?
